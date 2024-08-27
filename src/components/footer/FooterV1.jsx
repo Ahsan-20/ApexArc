@@ -70,7 +70,7 @@ const FooterV1 = () => {
                                         <li>
                                             <div className="content">
                                                 <strong>Phone:</strong>
-                                                <a href="#">Coming Soon</a>
+                                                <a href="#">+923058594110</a>
                                             </div>
                                         </li>
                                     </ul>
