@@ -23,7 +23,7 @@ const HeaderTopV1 = () => {
                                     </div>
                                     <div className="info">
                                         <strong>Phone</strong>
-                                        <a href="Coming Soon">Coming Soon</a>
+                                        <a href="tel:+923058594110">+923058594110</a>
                                     </div>
                                 </li>
                             </ul>
