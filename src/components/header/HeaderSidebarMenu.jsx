@@ -56,7 +56,7 @@ const HeaderSidebarMenu = ({ isSidebarOpen, removeClasses, addClasses, searchOpe
                                 <li>
                                     <div className="content">
                                         <p>Contact</p>
-                                        <strong><a href="Coming Soon" className='color-para'>Coming Soon</a></strong>
+                                        <strong><a href="tel:+923058594110" className='color-para'>+923058594110</a></strong>
                                     </div>
                                 </li>
                             </ul>
