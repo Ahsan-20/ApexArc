@@ -7,7 +7,7 @@ import ShowCaseV2 from '../../components/showCase/ShowCaseV2';
 import TeamV3 from '../../components/team/TeamV3';
 import WhyChooseUsV3 from '../../components/whyChoose/WhyChooseUsV3';
 import ContactV1 from '../../components/contact/ContactV1';
-import BlogV1 from '../../components/blog/BlogV1';
+
 import FooterV1 from '../../components/footer/FooterV1';
 import HeaderV4 from '../../components/header/HeaderV4';
 
@@ -32,7 +32,7 @@ const BusinessDark = () => {
                 <TeamV3 />
                 <WhyChooseUsV3 />
                 <ContactV1 />
-                <BlogV1 />
+                
                 <FooterV1 />
             </div>
         </>
