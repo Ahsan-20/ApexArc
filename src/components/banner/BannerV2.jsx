@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactWOW from 'react-wow';
-import { HashLink as Link } from 'react-router-hash-link'
+import { HashLink as Link } from 'react-router-hash-link';
 import CountUp from 'react-countup/';
 
 const BannerV2 = () => {
@@ -16,8 +16,10 @@ const BannerV2 = () => {
                             <div className="row align-center">
                                 <div className="col-xl-8">
                                     <ReactWOW animation='fadeInLeft' delay="500ms" duration="400ms">
-                                    <h2><strong>Services</strong></h2>
-
+                                        <h2><strong>At APEXARC, we deliver innovative solutions</strong></h2>
+                                        <p>
+                                            In web and app development, AI, UI/UX design, generative AI, and chatbots, we turn your ideas into reality with precision and creativity. Explore our services:
+                                        </p>
                                     </ReactWOW>
                                 </div>
                                 <div className="col-xl-4">
@@ -36,7 +38,7 @@ const BannerV2 = () => {
                                             </div>
                                             <ReactWOW animation='fadeInUp' delay="500ms">
                                                 <p>
-                                                    Plan upon yet way get cold spot its week. Almost do am or limits hearts. Resolve parties but why she shewing. She sang know now achiving point.
+                                                    From concept to execution, our expertise spans across a variety of services tailored to meet your business needs.
                                                 </p>
                                             </ReactWOW>
                                             {/* <ReactWOW animation='fadeInUp' delay="900ms">
