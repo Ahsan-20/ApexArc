@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "thumb": "7.jpg",
+        "title": "Web & App Development",
+        "text": "Delivering innovative web and mobile app solutions tailored to meet the unique needs of our clients. Our projects are designed with user experience in mind, ensuring functionality, responsiveness, and aesthetic appeal.",
+        "btnLink": "project-details",
+        "btnText": "View Project",
+        "shape": "banner-3.webp"
+    },
+    {
+        "id": 2,
+        "thumb": "8.jpg",
+        "title": "AI Solutions & Generative Tech",
+        "text": "Pioneering the integration of AI and generative technologies to transform businesses. Our projects leverage cutting-edge AI to enhance automation, personalization, and decision-making capabilities.",
+        "btnLink": "project-details",
+        "btnText": "View Project",
+        "shape": "banner-3.webp"
+    }
+]

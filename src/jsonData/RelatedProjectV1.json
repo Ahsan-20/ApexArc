@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "thumb": "3.jpg",
+        "tag": "Web Development",
+        "title": "Custom Website Development",
+        "icon": "fas fa-arrow-right",
+        "delay": "300ms"
+    },
+    {
+        "id": 2,
+        "thumb": "2.jpg",
+        "tag": "App Development",
+        "title": "Mobile App Design & Development",
+        "icon": "fas fa-arrow-right",
+        "delay": "600ms"
+    }
+]

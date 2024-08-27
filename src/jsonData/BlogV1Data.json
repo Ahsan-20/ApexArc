@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "thumb": "1.jpg",
+        "thumbFull": "1-full.jpg",
+        "tag": "Web Development",
+        "author": "Istiak Ahmed",
+        "date": "25 April, 2024",
+        "title": "Innovative Strategies for Web Development Success",
+        "midTitle": "How to stay ahead in web development?",
+        "postLink": "blog-single-sidebar",
+        "btnText": "Continue Reading",
+        "btnIcon": "fa-solid fa-arrow-right"
+    },
+    {
+        "id": 2,
+        "thumb": "2.png",
+        "thumbFull": "2-full.png",
+        "tag": "App Development",
+        "author": "Md Sohag",
+        "date": "27 April, 2024",
+        "title": "Best Practices in Modern App Development",
+        "midTitle": "What are the latest trends in app development?",
+        "postLink": "blog-single-sidebar",
+        "btnText": "Continue Reading",
+        "btnIcon": "fa-solid fa-arrow-right"
+    },
+    {
+        "id": 3,
+        "thumb": "3.jpg",
+        "thumbFull": "3-full.jpg",
+        "tag": "UI/UX Design",
+        "author": "Md Sohag",
+        "date": "29 April, 2024",
+        "title": "Enhancing User Experience with UI/UX Design",
+        "midTitle": "How to improve user engagement through design?",
+        "postLink": "blog-single-sidebar",
+        "btnText": "Continue Reading",
+        "btnIcon": "fa-solid fa-arrow-right"
+    },
+    {
+        "id": 4,
+        "thumb": "4.jpg",
+        "thumbFull": "4-full.jpg",
+        "tag": "Chatbot Development",
+        "author": "Md Sohag",
+        "date": "29 April, 2024",
+        "title": "The Role of Chatbots in Modern Business",
+        "midTitle": "How chatbots can enhance customer service?",
+        "postLink": "blog-single-sidebar",
+        "btnText": "Continue Reading",
+        "btnIcon": "fa-solid fa-arrow-right"
+    },
+    {
+        "id": 5,
+        "thumb": "5.jpg",
+        "thumbFull": "5-full.jpg",
+        "tag": "AI Solutions",
+        "author": "Md Sohag",
+        "date": "29 April, 2024",
+        "title": "Leveraging AI for Business Growth",
+        "midTitle": "What are the benefits of AI in business?",
+        "postLink": "blog-single-sidebar",
+        "btnText": "Continue Reading",
+        "btnIcon": "fa-solid fa-arrow-right"
+    },
+    {
+        "id": 6,
+        "thumb": "6.jpg",
+        "thumbFull": "6-full.jpg",
+        "tag": "Generative AI",
+        "author": "Md Sohag",
+        "date": "29 April, 2024",
+        "title": "Exploring Generative AI for Creative Solutions",
+        "midTitle": "How generative AI is shaping creativity?",
+        "postLink": "blog-single-sidebar",
+        "btnText": "Continue Reading",
+        "btnIcon": "fa-solid fa-arrow-right"
+    }
+]

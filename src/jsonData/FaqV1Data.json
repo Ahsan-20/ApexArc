@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "dataParent": "faqAccordion",
+        "accordionId": "headingOne",
+        "collapsedClass": "",
+        "dataTarget": "#collapseOne",
+        "ariaExpanded": "true",
+        "ariaControls": "collapseOne",
+        "title": "What web development technologies do you specialize in?",
+        "text": "We specialize in a range of web development technologies including HTML, CSS, JavaScript, and modern frameworks like React and Angular. Our goal is to build responsive and efficient websites tailored to your needs.",
+        "collapseShow": "show"
+    },
+    {
+        "id": 2,
+        "dataParent": "faqAccordion",
+        "accordionId": "headingTwo",
+        "collapsedClass": "collapsed",
+        "dataTarget": "#collapseTwo",
+        "ariaExpanded": "false",
+        "ariaControls": "collapseTwo",
+        "title": "What can I expect from your app development services?",
+        "text": "Our app development services include the creation of native and cross-platform applications using Flutter and Dart, as well as integration with APIs and third-party services. We focus on delivering high-performance apps with a great user experience.",
+        "collapseShow": ""
+    },
+    {
+        "id": 3,
+        "dataParent": "faqAccordion",
+        "accordionId": "headingThree",
+        "collapsedClass": "collapsed",
+        "dataTarget": "#collapseThree",
+        "ariaExpanded": "false",
+        "ariaControls": "collapseThree",
+        "title": "How do you approach UI/UX design?",
+        "text": "Our approach to UI/UX design is centered around creating intuitive and engaging user interfaces. We conduct user research, develop wireframes and prototypes, and iterate based on feedback to ensure that the final design meets the needs of your users.",
+        "collapseShow": ""
+    }
+]

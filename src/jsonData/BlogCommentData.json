@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "commentReplay": "",
+        "thumb": "10.jpg",
+        "name": "Bubhan Prova",
+        "icon": "fa-solid fa-reply",
+        "date": "28 Feb, 2024",
+        "text": "The web development services provided were exceptional. The team showed great expertise and commitment. The final product exceeded expectations and was delivered on time. Highly recommend for anyone looking to enhance their online presence."
+    },
+    {
+        "id": 2,
+        "commentReplay": "reply",
+        "thumb": "10.jpg",
+        "name": "Mickel Jones",
+        "icon": "fa-solid fa-reply",
+        "date": "29 Feb, 2024",
+        "text": "Fantastic experience with the mobile app development service. The developers were highly skilled and attentive to our needs. The app's performance and design are top-notch. I’m impressed with the overall quality and support provided."
+    }
+]

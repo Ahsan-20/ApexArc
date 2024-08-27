@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "dataParent": "faqAccordion",
+        "accordionId": "headingOne",
+        "collapsedClass": "",
+        "dataTarget": "#collapseOne",
+        "ariaExpanded": "true",
+        "ariaControls": "collapseOne",
+        "title": "Where can I get help with web and app development?",
+        "text": "Our team provides comprehensive support for all your web and app development needs. Whether it's troubleshooting issues, enhancing features, or building from scratch, we’re here to assist you every step of the way.",
+        "collapseShow": "show"
+    },
+    {
+        "id": 2,
+        "dataParent": "faqAccordion",
+        "accordionId": "headingTwo",
+        "collapsedClass": "collapsed",
+        "dataTarget": "#collapseTwo",
+        "ariaExpanded": "false",
+        "ariaControls": "collapseTwo",
+        "title": "How much does it cost to develop a custom software solution?",
+        "text": "The cost of developing custom software varies depending on the complexity, features, and specific requirements of your project. We offer tailored solutions to fit different budgets and needs.",
+        "collapseShow": ""
+    },
+    {
+        "id": 3,
+        "dataParent": "faqAccordion",
+        "accordionId": "headingThree",
+        "collapsedClass": "collapsed",
+        "dataTarget": "#collapseThree",
+        "ariaExpanded": "false",
+        "ariaControls": "collapseThree",
+        "title": "What data is needed for creating AI solutions?",
+        "text": "To create effective AI solutions, we require relevant and quality data that aligns with the objectives of your project. This could include historical data, user interactions, or other datasets that inform AI models.",
+        "collapseShow": ""
+    }
+]

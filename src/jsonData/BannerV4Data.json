@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "thumb": "8.jpg",
+        "subTitle": "Consulting Services",
+        "title": "Innovative Financial Solutions for Your Business",
+        "text": "We build trust with our clients by providing cutting-edge financial analysis and strategies to drive your company’s growth.",
+        "btnText": "Get in Touch",
+        "btnLink": "contact-us",
+        "shape": "banner-shape.png"
+    },
+    {
+        "id": 2,
+        "thumb": "6.jpg",
+        "subTitle": "Expert Guidance",
+        "title": "Strategic Planning for Sustainable Success",
+        "text": "We help you establish a strong foundation for your business with tailored strategies and expert coaching.",
+        "btnText": "Contact Us",
+        "btnLink": "contact-us",
+        "shape": "banner-shape.png"
+    }
+]

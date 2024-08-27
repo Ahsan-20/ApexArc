@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "thumb": "1.jpg",
+        "thumbFull": "1-full.jpg",
+        "projectLink": "project-details",
+        "subTitle": "UI/UX Design",
+        "title": "Custom Website Solutions",
+        "shape": "10.png"
+    },
+    {
+        "id": 2,
+        "thumb": "2.jpg",
+        "thumbFull": "2-full.jpg",
+        "projectLink": "project-details",
+        "subTitle": "App Development",
+        "title": "Mobile App Innovations",
+        "shape": "10.png"
+    },
+    {
+        "id": 3,
+        "thumb": "3.jpg",
+        "thumbFull": "3-full.jpg",
+        "projectLink": "project-details",
+        "subTitle": "AI Solutions",
+        "title": "Advanced AI Implementations",
+        "shape": "10.png"
+    },
+    {
+        "id": 4,
+        "thumb": "4.jpg",
+        "thumbFull": "4-full.jpg",
+        "projectLink": "project-details",
+        "subTitle": "UI/UX Design",
+        "title": "Engaging UI/UX Designs",
+        "shape": "10.png"
+    },
+    {
+        "id": 5,
+        "thumb": "5.jpg",
+        "thumbFull": "5-full.jpg",
+        "projectLink": "project-details",
+        "subTitle": "Chatbot Development",
+        "title": "Interactive Chatbot Solutions",
+        "shape": "10.png"
+    },
+    {
+        "id": 6,
+        "thumb": "6.jpg",
+        "thumbFull": "6-full.jpg",
+        "projectLink": "project-details",
+        "subTitle": "Generative AI",
+        "title": "Generative AI Projects",
+        "shape": "10.png"
+    }
+]

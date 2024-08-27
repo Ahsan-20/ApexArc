@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "thumb": "banner-3.jpg",
+        "serviceIcon": "flaticon-mobile-app",
+        "serviceTitle": "Web Development",
+        "serviceText": "Creating responsive and dynamic websites tailored to your business needs. Our development process ensures seamless user experience.",
+        "btnText": "Learn More",
+        "btnLink": "services-details",
+        "btnIcon": "fa-solid fa-arrow-right"
+    },
+    {
+        "id": 2,
+        "thumb": "banner-3.jpg",
+        "serviceIcon": "flaticon-mobile-app",
+        "serviceTitle": "App Development",
+        "serviceText": "Designing and developing mobile applications that offer smooth performance and intuitive interfaces across various platforms.",
+        "btnText": "Learn More",
+        "btnLink": "services-details",
+        "btnIcon": "fa-solid fa-arrow-right"
+    },
+    {
+        "id": 3,
+        "thumb": "banner-3.jpg",
+        "serviceIcon": "flaticon-design",
+        "serviceTitle": "UI/UX Design",
+        "serviceText": "Crafting visually appealing and user-friendly designs that enhance user experience and engagement across web and mobile platforms.",
+        "btnText": "Learn More",
+        "btnLink": "services-details",
+        "btnIcon": "fa-solid fa-arrow-right"
+    },
+    {
+        "id": 4,
+        "thumb": "banner-3.jpg",
+        "serviceIcon": "flaticon-chatbot",
+        "serviceTitle": "Chatbot Development",
+        "serviceText": "Developing AI-powered chatbots that enhance customer interaction and automate routine tasks, providing a seamless support experience.",
+        "btnText": "Learn More",
+        "btnLink": "services-details",
+        "btnIcon": "fa-solid fa-arrow-right"
+    },
+    {
+        "id": 5,
+        "thumb": "banner-3.jpg",
+        "serviceIcon": "flaticon-ai",
+        "serviceTitle": "AI Solutions",
+        "serviceText": "Implementing advanced AI solutions to drive automation, optimize operations, and enable data-driven decision-making in your business.",
+        "btnText": "Learn More",
+        "btnLink": "services-details",
+        "btnIcon": "fa-solid fa-arrow-right"
+    },
+    {
+        "id": 6,
+        "thumb": "banner-3.jpg",
+        "serviceIcon": "flaticon-generative-ai",
+        "serviceTitle": "Generative AI",
+        "serviceText": "Harnessing the power of generative AI to create innovative solutions that transform the way you approach content creation, design, and business processes.",
+        "btnText": "Learn More",
+        "btnLink": "services-details",
+        "btnIcon": "fa-solid fa-arrow-right"
+    }
+]

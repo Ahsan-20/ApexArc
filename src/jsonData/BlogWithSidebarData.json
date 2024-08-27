@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "thumb": "v1.jpg",
+        "postLink": "blog-single-sidebar",
+        "author": "Istiak Ahmed",
+        "date": "25 April, 2023",
+        "title": "The Future of Web Development: Trends to Watch",
+        "text": "Explore the latest trends in web development and how they are shaping the future of the industry. From new technologies to emerging best practices, this post provides insights into what's next for web developers.",
+        "icon": "fa-solid fa-arrow-right",
+        "btnText": "Continue Reading"
+    },
+    {
+        "id": 2,
+        "thumb": "v2.jpg",
+        "postLink": "blog-single-sidebar",
+        "author": "Istiak Ahmed",
+        "date": "25 May, 2023",
+        "title": "App Development Best Practices for 2024",
+        "text": "Stay ahead of the curve with the latest app development best practices. Learn about new tools, frameworks, and strategies to create high-performing apps that meet user expectations.",
+        "icon": "fa-solid fa-arrow-right",
+        "btnText": "Continue Reading"
+    },
+    {
+        "id": 3,
+        "thumb": "v3.jpg",
+        "postLink": "blog-single-sidebar",
+        "author": "Istiak Ahmed",
+        "date": "25 June, 2023",
+        "title": "UI/UX Design Principles for a Seamless User Experience",
+        "text": "Discover the core principles of UI/UX design that contribute to a seamless and engaging user experience. This post covers key design strategies and trends that are essential for modern digital interfaces.",
+        "icon": "fa-solid fa-arrow-right",
+        "btnText": "Continue Reading"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "icon": "flaticon-cyber-security",
+        "number": "01",
+        "title": "Initial Planning"
+    },
+    {
+        "id": 2,
+        "icon": "flaticon-paper",
+        "number": "02",
+        "title": "Backend Development"
+    },
+    {
+        "id": 3,
+        "icon": "flaticon-start-up",
+        "number": "03",
+        "title": "UI/UX Design"
+    },
+    {
+        "id": 4,
+        "icon": "flaticon-support-1",
+        "number": "04",
+        "title": "Deployment"
+    }
+]

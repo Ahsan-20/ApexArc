@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "category": "Web Development",
+        "postLink": "/blog-with-sidebar#",
+        "post": 69
+    },
+    {
+        "id": 2,
+        "category": "App Development",
+        "postLink": "/blog-with-sidebar#",
+        "post": 25
+    },
+    {
+        "id": 3,
+        "category": "UI/UX Design",
+        "postLink": "/blog-with-sidebar#",
+        "post": 18
+    },
+    {
+        "id": 4,
+        "category": "Chatbot Development",
+        "postLink": "/blog-with-sidebar#",
+        "post": 37
+    },
+    {
+        "id": 5,
+        "category": "AI Solutions",
+        "postLink": "/blog-with-sidebar#",
+        "post": 12
+    }
+]

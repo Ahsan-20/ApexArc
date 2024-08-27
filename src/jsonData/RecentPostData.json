@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "thumb": "1.jpg",
+        "postLink": "blog-single-sidebar",
+        "date": "12 Feb, 2023",
+        "title": "Innovative Web Development Trends to Watch"
+    },
+    {
+        "id": 2,
+        "thumb": "2.jpg",
+        "postLink": "blog-single-sidebar",
+        "date": "12 June, 2023",
+        "title": "How AI Solutions Are Transforming Industries"
+    },
+    {
+        "id": 3,
+        "thumb": "3.jpg",
+        "postLink": "blog-single-sidebar",
+        "date": "12 August, 2023",
+        "title": "The Future of App Development: What to Expect"
+    }
+]

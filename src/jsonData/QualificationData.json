@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "icon": "flaticon-app-development",
+        "name": "Web & App Development"
+    },
+    {
+        "id": 2,
+        "icon": "flaticon-ai-solutions",
+        "name": "AI & Generative AI Solutions"
+    },
+    {
+        "id": 3,
+        "icon": "flaticon-ui-ux",
+        "name": "UI/UX Design"
+    }
+]

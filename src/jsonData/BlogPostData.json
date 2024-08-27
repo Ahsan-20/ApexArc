@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "thumb": "v1.jpg",
+        "blogPostLink": "blog-single-sidebar",
+        "author": "Md Sohag",
+        "date": "25 April, 2024",
+        "title": "Key Innovations in Web Development",
+        "text": "Explore the latest trends and technologies shaping the future of web development. Learn how to implement modern practices to enhance your web projects.",
+        "btnText": "Continue Reading",
+        "btnIcon": "fa-solid fa-arrow-right"
+    },
+    {
+        "id": 2,
+        "thumb": "v2.jpg",
+        "blogPostLink": "blog-single-sidebar",
+        "author": "Md Sohag",
+        "date": "27 April, 2024",
+        "title": "The Evolution of Mobile App Development",
+        "text": "Discover the evolution of mobile app development and how emerging technologies are transforming the industry. Get insights on developing next-gen mobile applications.",
+        "btnText": "Continue Reading",
+        "btnIcon": "fa-solid fa-arrow-right"
+    },
+    {
+        "id": 3,
+        "thumb": "v3.jpg",
+        "blogPostLink": "blog-single-sidebar",
+        "author": "Md Sohag",
+        "date": "29 April, 2024",
+        "title": "Enhancing User Experience with Effective UI/UX Design",
+        "text": "Learn the principles of UI/UX design and how to create intuitive and engaging user experiences. Explore best practices to improve the usability of your digital products.",
+        "btnText": "Continue Reading",
+        "btnIcon": "fa-solid fa-arrow-right"
+    }
+]

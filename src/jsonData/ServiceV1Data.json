@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "icon1": "2.png",
+        "icon1Dark": "envelope.png",
+        "thumb": "1-full.jpg",
+        "icon2": "fas fa-long-arrow-right",
+        "text": "Designing user-friendly interfaces and experiences that enhance usability and customer satisfaction.",
+        "title": "UI/UX Design",
+        "serviceLink": "services-details"
+    },
+    {
+        "id": 2,
+        "icon1": "1.png",
+        "icon1Dark": "target.png",
+        "thumb": "5-full.jpeg",
+        "icon2": "fas fa-long-arrow-right",
+        "text": "Developing intuitive and high-performance web applications tailored to modern business needs.",
+        "title": "Web Application",
+        "serviceLink": "services-details"
+    },
+    {
+        "id": 3,
+        "icon1": "3.png",
+        "icon1Dark": "analytics.png",
+        "thumb": "3.jpeg",
+        "icon2": "fas fa-long-arrow-right",
+        "text": "Creating mobile applications that provide seamless user experiences across various platforms.",
+        "title": "Mobile Application",
+        "serviceLink": "services-details"
+    },
+    {
+        "id": 4,
+        "icon1": "4.png",
+        "icon1Dark": "4.png",
+        "thumb": "4-full.webp",
+        "icon2": "fas fa-long-arrow-right",
+        "text": "Developing AI-driven solutions that enhance automation, personalization, and business intelligence.",
+        "title": "AI Solution",
+        "serviceLink": "services-details"
+    },
+    {
+        "id": 5,
+        "icon1": "5.png",
+        "icon1Dark": "5.png",
+        "thumb": "5-full.webp",
+        "icon2": "fas fa-long-arrow-right",
+        "text": "Implementing generative AI technologies to create innovative content and streamline workflows.",
+        "title": "Generative AI",
+        "serviceLink": "services-details"
+    },
+    {
+        "id": 6,
+        "icon1": "6.png",
+        "icon1Dark": "6.png",
+        "thumb": "6-full.webp",
+        "icon2": "fas fa-long-arrow-right",
+        "text": "Developing chatbots that enhance customer interaction and streamline operations,",
+        "title": "Chatbot Development",
+        "serviceLink": "services-details"
+    }
+]

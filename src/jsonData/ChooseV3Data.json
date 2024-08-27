@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "listLink": "services-details",
+        "listName": "Web Development",
+        "listIcon": "fa-solid fa-angle-right"
+    },
+    {
+        "id": 2,
+        "listLink": "services-details",
+        "listName": "App Development",
+        "listIcon": "fa-solid fa-angle-right"
+    },
+    {
+        "id": 3,
+        "listLink": "services-details",
+        "listName": "UI/UX Design",
+        "listIcon": "fa-solid fa-angle-right"
+    },
+    {
+        "id": 4,
+        "listLink": "services-details",
+        "listName": "Chatbot Development",
+        "listIcon": "fa-solid fa-angle-right"
+    },
+    {
+        "id": 5,
+        "listLink": "services-details",
+        "listName": "AI Solutions",
+        "listIcon": "fa-solid fa-angle-right"
+    },
+    {
+        "id": 6,
+        "listLink": "services-details",
+        "listName": "Generative AI",
+        "listIcon": "fa-solid fa-angle-right"
+    }
+]

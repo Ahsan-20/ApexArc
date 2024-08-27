@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "thumb": "1.jpg",
+        "name": "James Baker",
+        "profession": "Web Developer",
+        "memberLink": "team-details",
+        "memberInfo": "James specializes in creating scalable web applications using modern frameworks like React and Node.js, ensuring seamless user experiences and robust backend solutions.",
+        "projectCount": 250,
+        "eMail": "james@example.com",
+        "contactNumber": "+44-20-7328-4499",
+        "animationClass": "fadeInUp",
+        "animationDelay": "200ms"
+    },
+    {
+        "id": 2,
+        "thumb": "2.jpg",
+        "name": "Mir Siap",
+        "profession": "App Developer",
+        "memberLink": "team-details",
+        "memberInfo": "Mir is an expert in mobile app development, crafting intuitive and efficient apps for both Android and iOS platforms, utilizing the latest tools and technologies.",
+        "projectCount": 270,
+        "eMail": "siap@example.com",
+        "contactNumber": "+44-20-7328-4491",
+        "animationClass": "fadeInUp",
+        "animationDelay": "400ms"
+    },
+    {
+        "id": 3,
+        "thumb": "3.jpg",
+        "name": "Ryan Ricketts",
+        "profession": "Chatbot Specialist",
+        "memberLink": "team-details",
+        "memberInfo": "Ryan designs and implements intelligent chatbots that enhance customer interaction using advanced natural language processing techniques and AI algorithms.",
+        "projectCount": 290,
+        "eMail": "ryan@example.com",
+        "contactNumber": "+44-20-7328-4492",
+        "animationClass": "fadeInLeft",
+        "animationDelay": "600ms"
+    },
+    {
+        "id": 4,
+        "thumb": "4.jpg",
+        "name": "Ema Watson",
+        "profession": "UI/UX Designer",
+        "memberLink": "team-details",
+        "memberInfo": "Ema excels at creating user-friendly and visually appealing interfaces that enhance user engagement and accessibility across various digital platforms.",
+        "projectCount": 350,
+        "eMail": "ema@example.com",
+        "contactNumber": "+44-20-7328-4493",
+        "animationClass": "fadeInLeft",
+        "animationDelay": "800ms"
+    },
+    {
+        "id": 5,
+        "thumb": "5.jpg",
+        "name": "Istiak Ahmed",
+        "profession": "Director of AI Development",
+        "memberLink": "team-details",
+        "memberInfo": "Istiak leads our AI initiatives, focusing on generative AI technologies to drive innovation and develop solutions that automate and enhance creative processes.",
+        "projectCount": 400,
+        "eMail": "istiak@example.com",
+        "contactNumber": "+44-20-7328-4496",
+        "animationClass": "fadeInLeft",
+        "animationDelay": "1000ms"
+    },
+    {
+        "id": 6,
+        "thumb": "6.jpg",
+        "name": "Monas Lion",
+        "profession": "Data Solutions Architect",
+        "memberLink": "team-details",
+        "memberInfo": "Monas designs real-time data solutions that help businesses make informed decisions, leveraging cloud technologies and big data analytics for optimal performance.",
+        "projectCount": 450,
+        "eMail": "monas@example.com",
+        "contactNumber": "+44-20-7328-4497",
+        "animationClass": "fadeInLeft",
+        "animationDelay": "1200ms"
+    }
+]

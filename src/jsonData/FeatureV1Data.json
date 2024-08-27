@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "title": "Training Programs",
+        "textFirst": "Enhance skills with our",
+        "textLast": "customized training programs",
+        "thumb": "11.png"
+    },
+    {
+        "id": 2,
+        "title": "Workshops",
+        "textFirst": "Participate in hands-on",
+        "textLast": "interactive workshops",
+        "thumb": "12.png"
+    }
+]

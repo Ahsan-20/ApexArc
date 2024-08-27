@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "listTitle": "Training Programs",
+        "listText": "Enhance your team's skills with our customized training programs, designed to meet your specific business needs.",
+        "listLink": "services-details",
+        "listIcon": "fas fa-long-arrow-right",
+        "listAnimation": "fadeInLeft",
+        "animationDelay": "0ms"
+    },
+    {
+        "id": 2,
+        "listTitle": "Workshops",
+        "listText": "Participate in hands-on, interactive workshops that provide practical knowledge and actionable insights.",
+        "listLink": "services-details",
+        "listIcon": "fas fa-long-arrow-right",
+        "listAnimation": "fadeInLeft",
+        "animationDelay": "500ms"
+    },
+    {
+        "id": 3,
+        "listTitle": "IT Consulting",
+        "listText": "Receive expert advice on leveraging technology to improve your business operations and achieve your goals.",
+        "listLink": "services-details",
+        "listIcon": "fas fa-long-arrow-right",
+        "listAnimation": "fadeInLeft",
+        "animationDelay": "900ms"
+    }
+]

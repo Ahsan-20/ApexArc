@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "thumb": "4.png",
+        "text": "Designing user-friendly interfaces and experiences that enhance usability and customer satisfaction.",
+        "serviceName": "UI/UX Design",
+        "tag": "Design",
+        "serviceLink": "services-details",
+        "icon": "fa-solid fa-arrow-right",
+        "shape": "15.webp"
+    },
+    {
+        "id": 2,
+        "thumb": "5.png",
+        "text": "Developing intuitive and high-performance web applications tailored to modern business needs.",
+        "serviceName": "Web Application",
+        "tag": "Web",
+        "serviceLink": "services-details",
+        "icon": "fa-solid fa-arrow-right",
+        "shape": "15.webp"
+    },
+    {
+        "id": 3,
+        "thumb": "6.png",
+        "text": "Creating mobile applications that provide seamless user experiences across various platforms.",
+        "serviceName": "Mobile Application",
+        "tag": "Mobile",
+        "serviceLink": "services-details",
+        "icon": "fa-solid fa-arrow-right",
+        "shape": "15.webp"
+    },
+    {
+        "id": 4,
+        "thumb": "7.png",
+        "text": "Developing AI-driven solutions that enhance automation, personalization, and business intelligence.",
+        "serviceName": "AI Solution",
+        "tag": "AI",
+        "serviceLink": "services-details",
+        "icon": "fa-solid fa-arrow-right",
+        "shape": "15.webp"
+    },
+    {
+        "id": 5,
+        "thumb": "8.png",
+        "text": "Implementing generative AI technologies to create innovative content and streamline workflows.",
+        "serviceName": "Generative AI",
+        "tag": "Innovation",
+        "serviceLink": "services-details",
+        "icon": "fa-solid fa-arrow-right",
+        "shape": "15.webp"
+    },
+    {
+        "id": 6,
+        "thumb": "9.png",
+        "text": "Developing chatbots that enhance customer interaction and streamline operations,",
+        "serviceName": "Chatbot Development",
+        "tag": "Automation",
+        "serviceLink": "services-details",
+        "icon": "fa-solid fa-arrow-right",
+        "shape": "15.webp"
+    }
+]
