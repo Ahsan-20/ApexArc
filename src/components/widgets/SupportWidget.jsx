@@ -10,7 +10,7 @@ const SupportWidget = () => {
                     <p>
                         Speak with a human to filling out a form? call corporate office and we will connect.
                     </p>
-                    <h2>Coming Soon</h2>
+                    <h2>+923058594110</h2>
                     <h4><a href="mailto:apexarcsolutions@gmail.com">apexarcsolutions@gmail.com</a></h4>
                     <Link className="btn mt-30 circle btn-sm btn-gradient" to="/contact-us#">Contact Us</Link>
                 </div>
