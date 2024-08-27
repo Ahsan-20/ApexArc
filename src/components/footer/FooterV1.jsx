@@ -1,14 +1,14 @@
 import React from 'react';
-import { HashLink as Link } from 'react-router-hash-link'
+import { HashLink as Link } from 'react-router-hash-link';
 import SocialShare from '../others/SocialShare';
 import { toast } from 'react-toastify';
 
 const FooterV1 = () => {
 
     const handleSearch = (event) => {
-        event.preventDefault()
-        event.target.reset()
-        toast.success("Thanks for your Email")
+        event.preventDefault();
+        event.target.reset();
+        toast.success("Thank you for subscribing!");
     }
 
     return (
@@ -24,7 +24,7 @@ const FooterV1 = () => {
                                 <div className="f-item about pr-50 pr-xs-0 pr-md-0">
                                     <img className="logo" src="/img/logo/logo-bold.png" alt="Logo" />
                                     <p>
-                                        Are off under folly death writter transforming cold regular. Almost do am or limits of hearts.
+                                        At APEXARC, we innovate and transform ideas into reality. From web and app development to AI and UI/UX design, we’re here to help you achieve success.
                                     </p>
                                     <div className="footer-social mt-30">
                                         <ul>
@@ -42,10 +42,10 @@ const FooterV1 = () => {
                                             <Link to="/about-us#">Company Profile</Link>
                                         </li>
                                         <li>
-                                            <Link to="/about-us#">About</Link>
+                                            <Link to="/about-us#">About Us</Link>
                                         </li>
                                         <li>
-                                            <Link to="/contact-us#">Contact</Link>
+                                            <Link to="/contact-us#">Contact Us</Link>
                                         </li>
                                     </ul>
                                 </div>
@@ -58,19 +58,19 @@ const FooterV1 = () => {
                                         <li>
                                             <div className="content">
                                                 <strong>Address:</strong>
-                                                Islamabad , Pakistan
+                                                Islamabad, Pakistan
                                             </div>
                                         </li>
                                         <li>
                                             <div className="content">
                                                 <strong>Email:</strong>
-                                                <a href="mailto:info@validtheme.com">apexarcsolutions@gmail.com</a>
+                                                <a href="mailto:apexarcsolutions@gmail.com">apexarcsolutions@gmail.com</a>
                                             </div>
                                         </li>
                                         <li>
                                             <div className="content">
                                                 <strong>Phone:</strong>
-                                                <a href="Coming Soon">Coming Soon</a>
+                                                <a href="#">Coming Soon</a>
                                             </div>
                                         </li>
                                     </ul>
@@ -81,7 +81,7 @@ const FooterV1 = () => {
                                 <div className="f-item newsletter">
                                     <h4 className="widget-title">Newsletter</h4>
                                     <p>
-                                        Join our subscribers list to get the instant latest news and special offers.
+                                        Subscribe to our newsletter for the latest updates and exclusive offers.
                                     </p>
                                     <form onSubmit={handleSearch}>
                                         <input type="email" placeholder="Your Email" className="form-control" name="email" autoComplete='off' required />
@@ -98,7 +98,7 @@ const FooterV1 = () => {
                         <div className="row">
                             <div className="col-lg-12">
                                 <p>
-                                    Copyright &copy; {(new Date().getFullYear())} ValidThemes. All Rights Reserved
+                                    Copyright &copy; {(new Date().getFullYear())} APEXARC. All Rights Reserved.
                                 </p>
                             </div>
                         </div>
